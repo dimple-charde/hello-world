@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
-    <h2>New user Register for DevOps Learning</h2>
-    <d1> ANTH ASTI PRARAMBH</d1>
+    <d2>New user Register for DevOps Learning</d2>
+    <h1> ANTH ASTI PRARAMBH</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
